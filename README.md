@@ -1,6 +1,6 @@
 # LIBGD
 
-![1703689589613](D:\LearnRS\LearnRS\1703689589613.png)
+![1703689589613](1703689589613.png)
 
 LIBGD is A Fast, Light Library For Remote Sensing Image Processing Written With C++, Completed By A Study Group From the Department of Urban Spatial Information Engineering, Shenzhen University.
 
@@ -11,3 +11,5 @@ This Project  relies on ceres, glog, gflag, and I provide a CMakeList Which Gene
 Until now, we have acomplished some classic algorithms, such as IHSFusion, GIHSFusion, AIHSFusion, IAIHSFusion in Image Fusion field, SLIC in Image Segmentation field and Some basic operators with image, including filters etc. If you have any problem, contact 936543814@qq.com. 
 
 ![1703689221587](1703689221587.png)
+
+At Last, if you cannot build this Project, Download pybind11 and remove it to the Same directory as CMakelists.txt
